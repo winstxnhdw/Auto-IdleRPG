@@ -4,16 +4,20 @@ import time, math
 keyboard = Controller()
 
 mode = input("Adventure mode (1 - 30): ")
-t = input("Period of adventure (in hours): ")
+boost = input("Do you have a time booster enabled (y/n)? ")
+if boost == "y":
+    fulltime = float(mode)/2
+if boost == "n":
+    fulltime = float(mode)
 
-fulltime = float(t) * 3600
-halftime = float(t) * 3600 / 2
+period = fulltime * 3600
+halftime = fulltime * 3600 / 2
 
-print('\nPeriod (T) of adventure: ', fulltime, ' second(s)')
+print('\nPeriod (T) of adventure: ', period, ' second(s)')
 print('T/2 of adventure: ', halftime, 'second(s)\n')
 
 adventure_mode = '$adventure ' + mode
-halftime_message = '[BOT] '+ str(float(t)/2) + ' hours have passed since @wins started their adventure.'
+halftime_message = '[BOT] '+ str(halftime) + ' hours have passed since @wins started their adventure.'
 
 try:
     print('5')
