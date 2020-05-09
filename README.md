@@ -11,14 +11,14 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 ## Requirements
 ### Operating System
 - Windows 10 
-- Any operating system as long as you have some basic programming knowledge
+- Any operating system
 
 ### Software 
 [Python 3.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
 - [pip](https://pypi.org/project/pip/)
 - [pynput](https://pypi.org/project/pynput/)
   
-## Installation
+## Installation for Windows 10
 1. Install [Python 3.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
 
 2. Install [pynput](https://pypi.org/project/pynput/)
@@ -30,7 +30,7 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 3. Download auto_adventure_script.py
    - Place it in your desired location (preferably Desktop if you are a beginner)
    
-## Usage without a Python IDE
+## Usage without a Python IDE for Windows 10
 1. Go to your search window
 
 2. Type `cmd` and open the terminal
@@ -47,7 +47,7 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 
 8. If you have entered the wrong inputs, `ctrl + c` to end the script and restart from step 4.
 
-## Usage with a Python IDE
+## Usage with a Python IDE for Windows 10
 1. Import
 
 2. Build
