@@ -1,4 +1,8 @@
 # Auto-IdleRPG
+### What is IdleRPG?
+IdleRPG is a Discord bot that allows users to experience a integrated text-based RPG with simple mechanics such as shop, classes, dungeons, items, PvP, races, gambling, marriage, music, raids, guilds and much more!
+
+### What is Auto-IdleRPG?
 Auto-IdleRPG takes control of your keyboard to automatically print `$status` and `$adventure x` at a specific period of your choice.
 
 ## Requirements
