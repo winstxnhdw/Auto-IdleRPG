@@ -50,4 +50,4 @@ Windows 10
 
 5. Pull your discord server to focus and click on the chat box, all within 5 seconds.
 
-6. If you have entered the wrong inputs, pull the terminal to focus and press `ctrl + c` to end the script and restart from step 4.
+6. If you have entered the wrong inputs, pull the terminal to focus and press `ctrl + c` to end the script and restart from step 2.
