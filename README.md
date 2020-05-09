@@ -39,7 +39,7 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 
 3. Use `cd` command to change directory to the location of the script (e.g. `cd Desktop`)
 
-4. Enter `python auto_adventure_script.py`
+4. Enter `python Auto-IdleRPG.py`
 
 5. Input your adventure number (e.g. 8)
 
@@ -50,9 +50,9 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 8. If you have entered the wrong inputs, `ctrl + c` to end the script and restart from step 4.
 
 ## Usage with a Python IDE for Windows 10
-1. Import
+1. Import Auto-IdleRPG.py into your IDE
 
-2. Build
+2. Build the program
 
 3. Input your adventure number (e.g. 8)
 
