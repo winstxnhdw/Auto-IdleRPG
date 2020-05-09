@@ -10,8 +10,8 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 
 ## Requirements
 ### Operating System
-- Windows 10
-*You can use this script on virtually any operating system as long as you have some basic programming knowledge*
+- Windows 10 
+- You can use this script on virtually any operating system as long as you have some basic programming knowledge
 
 ### Software 
 [Python 3.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
