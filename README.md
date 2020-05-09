@@ -33,7 +33,7 @@ Windows 10
 
 5. Input your adventure number (e.g. 8)
 
-6. Input the number of hours the specified adventure will take (e.g. 8)
+6. Specify whether you have used a time booster (e.g. y)
 
 7. Pull your discord server to focus and click on the chat box, all within 5 seconds.
 
@@ -46,7 +46,7 @@ Windows 10
 
 3. Input your adventure number (e.g. 8)
 
-4. Input the number of hours the specified adventure will take (e.g. 8)
+4. Specify whether you have used a time booster (e.g. y)
 
 5. Pull your discord server to focus and click on the chat box, all within 5 seconds.
 
