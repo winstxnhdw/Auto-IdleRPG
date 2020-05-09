@@ -6,7 +6,7 @@ IdleRPG is a Discord bot that allows users to experience a integrated text-based
 Auto-IdleRPG is built around pynput to mimic keystrokes which automatically prints `$status` and `$adventure x` at the appropriate timings.
 
 ### Why do I need Auto-IdleRPG?
-Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hassle of remembering when your adventures has ended or being at your computer, in order to maximise your booster usages. 
+Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hassle of remembering when your adventures has ended or being at your computer all the time, in order to maximise your booster usages. 
 
 ## Requirements
 ### Operating System
