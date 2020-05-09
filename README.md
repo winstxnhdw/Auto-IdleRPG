@@ -40,4 +40,14 @@ Windows 10
 8. If you have entered the wrong inputs, `ctrl + c` to end the script and restart from step 4.
 
 ## Usage with a Python IDE
-Import and build.
+1. Import
+
+2. Build
+
+3. Input your adventure number (e.g. 8)
+
+4. Input the number of hours the specified adventure will take (e.g. 8)
+
+5. Pull your discord server to focus and click on the chat box, all within 5 seconds.
+
+6. If you have entered the wrong inputs, pull the terminal to focus and press `ctrl + c` to end the script and restart from step 4.
