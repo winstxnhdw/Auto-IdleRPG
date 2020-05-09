@@ -18,7 +18,7 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
    - [pip](https://pypi.org/project/pip/)
    - [pynput](https://pypi.org/project/pynput/)
 
-2. Python IDE (Optional for beginners)
+2. Python IDE (optional for beginners)
   
 ## Installation for Windows 10
 1. Install [Python 3.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
