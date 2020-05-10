@@ -8,6 +8,10 @@ Auto-IdleRPG is built around pynput to mimic keystrokes which automatically prin
 ### Why do I need Auto-IdleRPG?
 Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hassle of remembering when your adventures has ended or being at your computer all the time, in order to maximise your booster usages. 
 
+## Releases
+- v1.1
+  - Fixed second to hour conversion in message
+
 ## Requirements
 ### Operating System
 - Windows 10 
