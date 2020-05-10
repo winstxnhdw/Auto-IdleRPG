@@ -26,7 +26,6 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 2. Install [pynput](https://pypi.org/project/pynput/)
    - Go to your search window
    - Type `cmd` and open the terminal
-   - Enter `python`
    - Enter `pip install pynput`
    
 3. Download Auto-IdleRPG.py
