@@ -17,7 +17,7 @@ print('\nPeriod (T) of adventure: ', period, ' second(s)')
 print('T/2 of adventure: ', halftime, 'second(s)\n')
 
 adventure_mode = '$adventure ' + mode
-halftime_message = '[BOT] '+ str(halftime) + ' hours have passed since @wins started their adventure.'
+halftime_message = '[BOT] '+ str(halftime / 3600) + ' hours have passed since @wins started their adventure.'
 
 try:
     print('5')
