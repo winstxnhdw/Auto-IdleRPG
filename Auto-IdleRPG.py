@@ -30,6 +30,9 @@ try:
     time.sleep(1)
     print('1')
     time.sleep(1)
+	
+	print(time.time())
+	print('The adventure has begun')
 
     while True:
         keyboard.type('[BOT] This is an automatic IdleRPG message bot made by @wins.')
@@ -51,11 +54,15 @@ try:
         keyboard.release(Key.enter)
 
         time.sleep(halftime - 8)
+		print(time.time())
+		print(halftime_message)
         keyboard.type(halftime_message)
         keyboard.press(Key.enter)
         keyboard.release(Key.enter)
 
         time.sleep(halftime + 3)
+		print(time.time())
+		print('The adventure ended.')
         keyboard.type('$status')
         keyboard.press(Key.enter)
         keyboard.release(Key.enter)
