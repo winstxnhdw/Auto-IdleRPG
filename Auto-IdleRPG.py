@@ -1,6 +1,5 @@
 from pynput.keyboard import Controller, Key
 import math, time
-from datetime import datetime
 
 keyboard = Controller()
 
@@ -20,9 +19,6 @@ print('T/2 of adventure: ', halftime, 'second(s)\n')
 adventure_mode = '$adventure ' + mode
 halftime_message = '[BOT] '+ str(halftime / 3600) + ' hours have passed since @wins started their adventure.'
 
-start = datetime.now()
-start_time = start.strftime("%H:%M:%S")
-
 try:
 	print('5')
 	time.sleep(1)
@@ -35,14 +31,9 @@ try:
 	print('1')
 	time.sleep(1)
 	
-	print(start_time)
 	print('The adventure has begun')
 
-	while True:
-		now = datetime.now()
-		current_time = now.strftime("%H:%M:%S")
-		
-		
+	while True:		
 		keyboard.type('[BOT] This is an automatic IdleRPG message bot made by @wins.')
 		keyboard.press(Key.enter)
 		keyboard.release(Key.enter)
@@ -62,14 +53,12 @@ try:
 		keyboard.release(Key.enter)
 
 		time.sleep(halftime - 8)
-		print(current_time)
 		print(halftime_message)
 		keyboard.type(halftime_message)
 		keyboard.press(Key.enter)
 		keyboard.release(Key.enter)
 
 		time.sleep(halftime + 3)
-		print(current_time)
 		print('The adventure ended.')
 		keyboard.type('$status')
 		keyboard.press(Key.enter)
