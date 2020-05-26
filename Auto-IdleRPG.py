@@ -21,7 +21,7 @@ adventure_mode = '$adventure ' + mode
 halftime_message = '[BOT] '+ str(halftime / 3600) + ' hours have passed since @wins started their adventure.'
 
 start = datetime.now()
-start_time = now.strftime("%H:%M:%S")
+start_time = start.strftime("%H:%M:%S")
 
 try:
 	print('5')
