@@ -1,5 +1,5 @@
 from pynput.keyboard import Controller, Key
-import math
+import math, time
 from datetime import datetime
 
 keyboard = Controller()
