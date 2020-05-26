@@ -20,8 +20,8 @@ print('T/2 of adventure: ', halftime, 'second(s)\n')
 adventure_mode = '$adventure ' + mode
 halftime_message = '[BOT] '+ str(halftime / 3600) + ' hours have passed since @wins started their adventure.'
 
-now = datetime.now()
-current_time = now.strftime("%H:%M:%S")
+start = datetime.now()
+start_time = now.strftime("%H:%M:%S")
 
 try:
 	print('5')
@@ -35,10 +35,14 @@ try:
 	print('1')
 	time.sleep(1)
 	
-	print(current_time)
+	print(start_time)
 	print('The adventure has begun')
 
 	while True:
+		now = datetime.now()
+		current_time = now.strftime("%H:%M:%S")
+		
+		
 		keyboard.type('[BOT] This is an automatic IdleRPG message bot made by @wins.')
 		keyboard.press(Key.enter)
 		keyboard.release(Key.enter)
