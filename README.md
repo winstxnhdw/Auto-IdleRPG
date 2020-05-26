@@ -35,12 +35,16 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 ## Installation for Windows 10
 1. Install [Python 3.7](https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe)
 
-2. Install [pynput](https://pypi.org/project/pynput/)
+### If you have Git installed
+1. Run the Windows-Installer.bat file
+
+### If you do not have Git installed
+1. Install [pynput](https://pypi.org/project/pynput/)
    - Go to your search window
    - Type `cmd` and open the terminal
    - Enter `pip install pynput`
    
-3. Download Auto-IdleRPG.py
+2. Download Auto-IdleRPG.py
    - Extract it in your desired location (preferably Desktop if you are a beginner)
    
 ## Usage without a Python IDE for Windows 10
