@@ -9,6 +9,9 @@ Auto-IdleRPG is built around pynput to mimic keystrokes which automatically prin
 Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hassle of remembering when your adventures has ended or being at your computer all the time, in order to maximise your booster usages. 
 
 ## Releases
+- Version 2.5
+  - Using a more OOP-like structure. Less error prone.
+
 - Version 2.4
   - Removed time marker logs until problem has been fixed
   
