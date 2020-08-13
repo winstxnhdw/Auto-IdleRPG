@@ -10,7 +10,7 @@ Auto-IdleRPG allows you to go on adventures/missions in IdleRPG without the hass
 
 ## Releases
 - Version 2.5
-  - Using a more OOP-like structure. Less error prone.
+  - Using classes
 
 - Version 2.4
   - Removed time marker logs until problem has been fixed
